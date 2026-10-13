@@ -13,6 +13,8 @@ function updateBalance(value){
 }
 
 
+console.log("Hello Coders");
+
 
 // update code:
 // 3 line of code
