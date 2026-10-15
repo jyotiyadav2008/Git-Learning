@@ -18,11 +18,17 @@ console.log("Bug final commit");
 
 console.log("Main hu hero tera");
 
-function showage(){
-    console.log(age);
+function showage(val){
+    console.log(age+val);
 
 }
 
-showage();
+
+showage(10);
+function showName(){
+    console.log(name);
+
+}
+showName();
 
 
